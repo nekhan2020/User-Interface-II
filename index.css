@@ -143,15 +143,13 @@ footer button {
   opacity: 0.8;
 }
 footer button:hover {
-  box-shadow: 20px 20px 50px 15px #ff2e63 inset;
+  box-shadow: 20px 20px 50px 20px #ff2e63;
   background-color: #252a34;
 }
 footer a {
   text-decoration: none;
   color: white;
   font-size: 1.5rem;
-  width: 100%;
-  height: 100%;
 }
 
 footer a:hover {
